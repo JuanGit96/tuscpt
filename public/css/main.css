@@ -1,0 +1,73 @@
+@font-face{
+    font-family: 'Helvetica';
+    src:url('fonts/HelveticaNeueLTCom-Cn.ttf');
+}
+body{
+
+    font-family: 'HelveticaNeueLTCom'
+}
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'Helvetica';
+    font-size: 17px;
+}
+
+.estudio{
+    background: #f19800;
+    width: 200px;
+   
+}
+.apto{
+    background: #8bbb42;
+    width: 200px;
+}
+.casa{
+    background: #56acde;
+    width: 200px;
+    }
+    .menu > div{
+        display: inline-block;
+    }
+
+.caja_estudio{
+    background: #f19800;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.caja_apto{
+    background: #8bbb42;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    margin-left:5%;
+    margin-right: 5%;
+}
+.caja_casa{
+    background: #56acde;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.hogar_estudio{
+    background: #272727;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 15px;
+}
+.menu{
+    width: 100%;
+}

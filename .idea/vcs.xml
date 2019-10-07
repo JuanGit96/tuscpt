@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../codensa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../cvn_laravel2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../grimario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../peikybackend" vcs="Git" />
+  </component>
+</project>

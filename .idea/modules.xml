@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../codensa/.idea/codensa.iml" filepath="$PROJECT_DIR$/../codensa/.idea/codensa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codensa/.idea/codensa.iml" filepath="$PROJECT_DIR$/../codensa/.idea/codensa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cvn_laravel2/.idea/cvn_laravel2.iml" filepath="$PROJECT_DIR$/../cvn_laravel2/.idea/cvn_laravel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grimario/.idea/grimario.iml" filepath="$PROJECT_DIR$/../grimario/.idea/grimario.iml" />
+      <module fileurl="file://$USER_HOME$/Documentos/itic_busquedas/.idea/itic_busquedas.iml" filepath="$USER_HOME$/Documentos/itic_busquedas/.idea/itic_busquedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../peikybackend/.idea/peikybackend.iml" filepath="$PROJECT_DIR$/../peikybackend/.idea/peikybackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tuscajas.iml" filepath="$PROJECT_DIR$/.idea/tuscajas.iml" />
+    </modules>
+  </component>
+</project>

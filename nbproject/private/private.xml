@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/users.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Http/Controllers/OrderController.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/kits.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/resources/views/layouts/app.blade.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/resources/views/auth/login.blade.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/agencies.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/orders.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/database/migrations/2016_10_13_203250_create_agents_table.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Agents.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/resources/views/welcome.blade.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/agents.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/app.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/articles.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/tuscajas.sql</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/resources/views/art.blade.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/database/migrations/2016_10_13_203242_create_agencies_table.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Agencies.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/User.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/resources/views/emails/order.blade.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Orders.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Extras.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/config/administrator/extras.php</file>
+            <file>file:/D:/wamp/www/tuscajas/tuscajas/app/Http/routes.php</file>
+        </group>
+    </open-files>
+</project-private>
